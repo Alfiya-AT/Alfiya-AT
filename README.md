@@ -19,4 +19,14 @@ https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-sn
 <video width="600" controls>
   <source src="https://codolio.com/rewind/2025" type="video/mp4">
 </video>
-<iframe src="https://codolio.com/rewind/2025"></iframe>
+## 🔁 Codolio Rewind 2025
+
+[![View my Codolio Rewind](https://your-image-link.png)](https://codolio.com/rewind/2025)
+![Codolio Rewind Demo](codolio-rewind.gif)
+<iframe 
+  src="https://codolio.com/rewind/2025"
+  width="100%" 
+  height="100%" 
+  style="border:none;">
+</iframe>
+👉 [View Interactive Codolio Rewind](https://yourusername.github.io/yourrepo)
