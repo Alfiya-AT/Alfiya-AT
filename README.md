@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
 -->
 
+<video width="600" controls>
+  <source src="https://your-video-url.mp4" type="video/mp4">
+</video>
