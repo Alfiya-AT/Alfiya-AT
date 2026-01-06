@@ -51,8 +51,8 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
 - 🏢 Dyashin Technosoft – Java Full Stack Developer Intern
 - 🔧 Developing and maintaining full-stack web applications using Java and modern frameworks
 - 🏦 Swami Vivekananda Youth Movement – Data Analytics & Mobile App Intern
-- 📊 Analyzed 3,000+ records using SQL and built dashboards for data-driven decisions
-- 📱 Developed user-focused features including QR code scanning and feedback systems
+- 📊 Analyzed 3,000+ records using SQL and built data-driven dashboards using AppSheet for real-time decision support.
+- 📱 Developed user-focused mobile app features with AppSheet, including QR code scanning and intelligent feedback systems.
 </td>
 </tr>
 </table>
