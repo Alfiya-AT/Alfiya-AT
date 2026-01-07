@@ -74,3 +74,5 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfiyat391@gmail.com)
 
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alfiya-AT&label=Profile%20views&color=0e75b6&style=flat" alt="Alfiya-AT" /> </p>
