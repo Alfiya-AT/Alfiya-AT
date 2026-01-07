@@ -1,4 +1,5 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Alfiya A Tamboli
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Alfiya A Tamboli  
+<img src="https://komarev.com/ghpvc/?username=Alfiya-AT&label=Profile%20views&color=0e75b6&style=flat" alt="Alfiya-AT" />
 
 <div align="center">
   
@@ -75,4 +76,3 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alfiya-AT&label=Profile%20views&color=0e75b6&style=flat" alt="Alfiya-AT" /> </p>
