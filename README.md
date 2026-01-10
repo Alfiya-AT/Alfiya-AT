@@ -59,22 +59,14 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
 </table>
 
 
-## 💻 Tech Stack
+### 🛠️ Tech Toolbox
 
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
-
-### Databases
-![SQL](https://img.shields.io/badge/SQL--blue?style=for-the-badge&logo=mysql)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,react,postgresql,github,aws,vite,postman,spring" />
+</div>
 
 
-### Developer Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 
 ## 🤝 Connect With Me
