@@ -65,11 +65,11 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
   <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,postgresql,react,aws,vite,postman,spring,github,vscode,eclipse" />
 </div>
 
-<div align="center">![Uploading image.png…]()
+<div align="center">
 
 ### 🔗 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/One_in_a_millon/)
+[![codolio](https://img.shields.io/badge/codolio-FFA116?style=for-the-badge&logo=codolio&logoColor=black)](https://codolio.com/profile/One_in_a_millon/card)
 
 </div>
 
