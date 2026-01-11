@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Alfiya A Tamboli  
+<img width="792" height="46" alt="image" src="https://github.com/user-attachments/assets/dcf85d2f-395c-4680-97df-c12c3213ecef" /># <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Alfiya A Tamboli  
 <img src="https://komarev.com/ghpvc/?username=Alfiya-AT&label=Profile%20views&color=0e75b6&style=flat" alt="Alfiya-AT" />
 
 <div align="center">
@@ -65,8 +65,13 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
   <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,postgresql,react,aws,vite,postman,spring,github,vscode,eclipse" />
 </div>
 
+<div align="center">![Uploading image.png…]()
 
+### 🔗 Coding Profiles
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/One_in_a_millon/)
+
+</div>
 
 
 ## 🤝 Connect With Me
