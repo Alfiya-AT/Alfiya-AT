@@ -74,6 +74,18 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
 </div>
 
 
+
+
+
+<h3 align="center">Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alfiya-AT/Alfiya-AT/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+
+
+
+
 ## 🤝 Connect With Me
 
 <div align="center">
