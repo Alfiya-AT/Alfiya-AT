@@ -1,4 +1,4 @@
-<img width="792" height="46" alt="image" src="https://github.com/user-attachments/assets/dcf85d2f-395c-4680-97df-c12c3213ecef" /># <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Alfiya A Tamboli  
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Alfiya A Tamboli  
 <img src="https://komarev.com/ghpvc/?username=Alfiya-AT&label=Profile%20views&color=0e75b6&style=flat" alt="Alfiya-AT" />
 
 <div align="center">
