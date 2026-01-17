@@ -62,7 +62,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
 ### 🛠️ Tech Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,postgresql,react,aws,vite,postman,spring,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,postgresql,aws,vite,postman,spring,github,vscode,eclipse" />
 </div>
 
 <div align="center">
