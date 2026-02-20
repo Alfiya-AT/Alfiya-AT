@@ -49,11 +49,11 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
 <td width="50%">
 
 ### 💼 Professional Experience
--💻 Kodnest – Python Full Stack with AI Intern
+- 💻 Kodnest – Python Full Stack with AI Intern
  🤖 Developing AI-powered full-stack applications using Python
--🏢 Dyashin Technosoft – Java Full Stack Developer Intern
+- 🏢 Dyashin Technosoft – Java Full Stack Developer Intern
  🔧 Building full-stack web applications with Java and modern frameworks
--🏦 Swami Vivekananda Youth Movement – Data Analytics & Mobile App Intern
+- 🏦 Swami Vivekananda Youth Movement – Data Analytics & Mobile App Intern
  📊 Analyzed 3,000+ records and built real-time dashboards using SQL & AppSheet
  📱 Developed mobile app features: QR scanning & emoji-based feedback
 </td>
