@@ -43,19 +43,19 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
 - 🎓 **East West Institute of Technology, Bengaluru**
 - 💻 **Computer Science & Engineering**
 - 📊 **CGPA: 9/10**
-- 📅 **Expected Graduation: 2026**
+- 📅 **Graduation: 2026**
 
 </td>
 <td width="50%">
 
 ### 💼 Professional Experience
-- 🏢 Dyashin Technosoft – Java Full Stack Developer Intern
-  
-  🔧 Developing and maintaining full-stack web applications using Java and modern frameworks
-- 🏦 Swami Vivekananda Youth Movement – Data Analytics & Mobile App Intern
-  
-  📊 Analyzed 3,000+ records using SQL and built data-driven dashboards using AppSheet for real-time decision support.
-  📱 Developed user-focused mobile app features with AppSheet, including QR code scanning and  emoji-based feedback.
+-💻 Kodnest – Python Full Stack with AI Intern
+ 🤖 Developing AI-powered full-stack applications using Python
+-🏢 Dyashin Technosoft – Java Full Stack Developer Intern
+ 🔧 Building full-stack web applications with Java and modern frameworks
+-🏦 Swami Vivekananda Youth Movement – Data Analytics & Mobile App Intern
+ 📊 Analyzed 3,000+ records and built real-time dashboards using SQL & AppSheet
+ 📱 Developed mobile app features: QR scanning & emoji-based feedback
 </td>
 </tr>
 </table>
