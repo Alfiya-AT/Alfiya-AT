@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=CS+graduate+from+EWIT+Bengaluru+%F0%9F%93%9A;Full-Stack+Developer+%26+Problem+Solver+%F0%9F%92%BB;Mobile+Application+Developer+Intern+%40+SVYM+%F0%9F%9A%80;Building+Digital+Solutions%2C+One+Commit+at+a+Time+%E2%9C%A8;Global+Ranking+6k+on+Codolio+%7C+400%2B+Problems+Solved+%F0%9F%94%A5)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=CS+graduate+from+EWIT+Bengaluru+%F0%9F%93%9A;Full-Stack+Developer+%26+Problem+Solver+%F0%9F%92%BB;Mobile+Application+Developer+Intern+%40+SVYM+%F0%9F%9A%80;Building+Digital+Solutions%2C+One+Commit+at+a+Time+%E2%9C%A8;Global+Ranking+4k+on+Codolio+%7C+400%2B+Problems+Solved+%F0%9F%94%A5)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
