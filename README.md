@@ -29,7 +29,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/EWIT_Bengaluru-9.14_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/EWIT_Bengaluru-9.09_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Final_Year-2026-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSE-B.E-orange?style=for-the-badge&logo=computer&logoColor=white"/>
 
