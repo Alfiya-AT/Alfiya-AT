@@ -10,13 +10,13 @@
 </div>
 
 ## 👋 Who Am I?
-Hi, I’m Alfiya, a BE CSE graduate from EWIT College with a 9.14 CGPA. I’m passionate about coding and problem-solving with DSA, and I enjoy competitive programming and web development. A quick learner with leadership skills.
+Hi, I’m Alfiya, a BE CSE graduate from EWIT College with a 9.09 CGPA. I’m passionate about coding and problem-solving with DSA, and I enjoy competitive programming and web development. A quick learner with leadership skills.
 
 ## 🚀 My Journey
-As a dedicated full-stack developer and competitive programmer, I've solved 400+ problems across various coding platforms, achieving a 6k global ranking on Codolio. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
+As a dedicated full-stack developer and competitive programmer, I've solved 400+ problems across various coding platforms, achieving a 4k global ranking on Codolio. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
 
 ## 💻 What I Do
-- 🏦 Professional Work: Worked across full-stack development and data analytics during internships at Dyashin Technology and Swami     Vivekananda Youth Movement.
+- 🏦 Professional Work: Worked across full-stack development and data analytics during internships at Dyashin Technology and Swami Vivekananda Youth Movement.
 
 - 🧩 Problem Solving: Active competitive programmer with achievements across LeetCode, HackerRank and GeeksforGeeks
 
