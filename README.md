@@ -42,7 +42,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
 ### 🏛️ Educational Background
 - 🎓 **East West Institute of Technology, Bengaluru**
 - 💻 **Computer Science & Engineering**
-- 📊 **CGPA: 9.14/10**
+- 📊 **CGPA: 9.09/10**
 - 📅 **Graduation: 2026**
 
 </td>
