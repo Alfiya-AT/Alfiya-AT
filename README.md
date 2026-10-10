@@ -49,6 +49,9 @@ As a dedicated full-stack developer and competitive programmer, I've solved 400+
 <td width="50%">
 
 ### 💼 Professional Experience
+- 🏢 Sasken Technologies – Project Trainee 
+ 🧪 Working on manual and automation testing of Honeywell Android devices
+ 📱 Learning Android architecture, ADB commands, device flashing, and software testing 
 - 💻 Kodnest – Python Full Stack with AI Intern
  🤖 Developing AI-powered full-stack applications using Python
 - 🏢 Dyashin Technosoft – Java Full Stack Developer Intern
